@@ -1,0 +1,7 @@
+theme = "after-dark"
+
+base_url = "https://tekelili.dev"
+
+taxonomies = [
+	{ name = "tags" },
+]
