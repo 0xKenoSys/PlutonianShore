@@ -1,6 +1,6 @@
 theme = "after-dark"
 
-base_url = "https://tekelili.dev"
+base_url = "https://plutonianshore.tekelili.dev"
 
 taxonomies = [
 	{ name = "tags" },
